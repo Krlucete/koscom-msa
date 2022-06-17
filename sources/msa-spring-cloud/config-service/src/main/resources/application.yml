@@ -15,8 +15,8 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:\Users\KOSCOM\git\koscom-msa\git-local-repo2
-#          uri: https://github.com/joneconsulting/spring-cloud-config
+#          uri: file:///C:\Users\KOSCOM\git\koscom-msa\git-local-repo2
+          uri: https://github.com/joneconsulting/spring-cloud-config
           default-label: master
       enabled: true
 #        native:
